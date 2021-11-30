@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Jrwolf99
-- 👀 I’m interested in IC design, Flutter, C/C++, Data Analytics (python and R) and more!
-- 🌱 I’m currently learning new projects in various languages.
+- 👀 I'm a front end developer focusing on HTML, CSS, and JavaScript. 
+- 🌱 I’m also currently developing new projects in various languages.
 - 📫 I can be reached through LinkedIn: https://www.linkedin.com/in/jonathanrobertwolf/
