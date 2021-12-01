@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Jrwolf99
-- 👀 I'm a front end developer focusing on HTML, CSS, and JavaScript. 
+- 👀 I'm a software developer focusing on HTML, CSS, and JavaScript. 
 - 🌱 I’m also currently developing new projects in various languages.
 - 📫 I can be reached through LinkedIn: https://www.linkedin.com/in/jonathanrobertwolf/
